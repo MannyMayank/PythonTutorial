@@ -31,3 +31,9 @@ print("Name is "+str(len(name))+" character long")
 #6/3
 #2**3   => 2*2*2 (exponent)
 #orderof calculation is  ()  greater than  **  greater than  */  greater than +-
+
+#Mathematical functions
+# round function(roof division) => round(value,number of digit after decimal)
+print(round(8/3,2))
+#floor division
+print(8//3)
