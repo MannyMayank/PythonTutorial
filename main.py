@@ -42,3 +42,12 @@ print(8//3)
 score=0
 height=1.8
 print(f"your score is {score} , your height is {height}")
+
+#Tip Calculator
+print("Welcome to the tip calculator.")
+total_bill=float(input("What was the total bill? $"))
+tip_percentage = int(input("What percentage tip would you like to give? 10,12, or 15? "))
+total_people = int(input("How many people to split the bill? "))
+each_pay = round((total_bill + (total_bill*(tip_percentage/100)))/total_people,2)
+each_pay="{:.2f}".format(each_pay) #format so that it doesn't drop 0 from decimal and restrict to 2 characters
+print(f"Each person should pay: ${each_pay}")
