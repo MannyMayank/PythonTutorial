@@ -21,3 +21,13 @@ print("Name is "+str(len(name))+" character long")
 # String
 # Integer
 # Boolean
+# Float
+#---------------------------------------------------
+
+#Mathematical operators
+#3+5
+#7-4
+#3*2
+#6/3
+#2**3   => 2*2*2 (exponent)
+#orderof calculation is  ()  greater than  **  greater than  */  greater than +-
