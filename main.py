@@ -16,3 +16,8 @@ print(name)
 #find length of a string, len()
 print("Name is "+str(len(name))+" character long")
 #-------------------------------------------------
+
+#Primitive Data Types in Python
+# String
+# Integer
+# Boolean
