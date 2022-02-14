@@ -1,1 +1,2 @@
-# Write your code below this line 👇
+#Classic Hello World
+print("Hello World")
