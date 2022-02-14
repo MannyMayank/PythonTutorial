@@ -11,3 +11,8 @@ print('what to print')""")
 #Input Function, take input from console or user
 name=input("What is your name?")
 print(name)
+#-------------------------------------------------
+
+#find length of a string, len()
+print("Name is "+str(len(name))+" character long")
+#-------------------------------------------------
