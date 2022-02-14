@@ -37,3 +37,8 @@ print("Name is "+str(len(name))+" character long")
 print(round(8/3,2))
 #floor division
 print(8//3)
+
+#f-string => type f in front of the string before quote
+score=0
+height=1.8
+print(f"your score is {score} , your height is {height}")
