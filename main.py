@@ -56,12 +56,18 @@
 #--------------------------------------------------------
 
 #if else if else conditional statement
-height = 120
-if(height > 120):
-  print(f"Height is {height}")
-  print("You can ride the rollercoaster")
-elif(height == 120):
-  print("You can ride roller coaster with an adult")
-else:
-  print("Sorry, you can't ride the rollercoaster")
+#height = 120
+#if(height > 120):
+#  print(f"Height is {height}")
+#  print("You can ride the rollercoaster")
+#elif(height == 120):
+#  print("You can ride roller coaster with an adult")
+#else:
+#  print("Sorry, you can't ride the rollercoaster")
+#---------------------------------------------------------------------
+
+#Logical operator
+#and
+#or
+#not
 #---------------------------------------------------------------------
