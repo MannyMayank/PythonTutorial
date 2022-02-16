@@ -71,3 +71,16 @@
 #or
 #not
 #---------------------------------------------------------------------
+
+#Randomization-Random Module
+#Python uses Mersenne Twister algorithm to generate random numbers
+# import random
+# #to generate random integer between a and b
+# a=10
+# b=30
+# d=random.randint(a,b)
+# print(d)
+# #to generate random floating number
+# print(random.random())
+#----------------------------------------------------------------------
+
